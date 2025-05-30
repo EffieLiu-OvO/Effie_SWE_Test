@@ -20,8 +20,8 @@ This project demonstrates a simple product management system where users can:
 1. **Clone the repository**
 
    ```bash
-   git clone <https://github.com/EffieLiu-OvO/Effie_SWE_Test>
-   cd swe-interview-test
+   git clone https://github.com/EffieLiu-OvO/Effie_SWE_Test
+   cd Effie_SWE_Test
    ```
 
 2. **Start the Backend Server**
